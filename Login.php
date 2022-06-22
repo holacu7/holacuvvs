@@ -7,9 +7,9 @@ Telegram : @OfficialVignesh
 ##############################
 */
 $Uname = "script.xxx.lua";  //Script Name [Don't Change Name]
-$Url1 = "http://unridden-servant.000webhostapp.com/Register.php"; //REGISTER.PHP
-$Url2 = "http://unridden-servant.000webhostapp.com/User.php"; //USER.PHP
-$Url3 = "http://unridden-servant.000webhostapp.com/ActionManager.php"; //ActionManager.php
+$Url1 = "https://github.com/holacu7/holacuvvs"; //REGISTER.PHP
+$Url2 = "https://github.com/holacu7/holacuvvs"; //USER.PHP
+$Url3 = "https://github.com/holacu7/holacuvvs"; //ActionManager.php
 
 
 
